@@ -1,6 +1,4 @@
 .idea
-*_test.go
-*.txt
 /bin
 /generated
 /cover.out
